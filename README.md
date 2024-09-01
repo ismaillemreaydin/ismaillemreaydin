@@ -7,7 +7,10 @@
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning Web development
 
-## Languages and Tools
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/ismail-emre-ayd%C4%B1n/)
+
 ## Languages and Tools
 
 <p align="left">
