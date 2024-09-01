@@ -7,4 +7,3 @@
 - 🔭 I’m currently working on improving my skills
 - 🌱 I’m currently learning ...
 
-https://www.cprogramming.com/
