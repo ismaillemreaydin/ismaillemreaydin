@@ -1,4 +1,4 @@
-                         ## Hi I'm İsmail Emre Aydın👋
+   ## Hi I'm İsmail Emre Aydın👋
 
                         #Computer Engineering student at Uludag University
 
