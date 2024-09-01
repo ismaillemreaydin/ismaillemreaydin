@@ -9,9 +9,6 @@
 
 ## Connect with me
 
-
-## LinkedIn
-
 <a href="https://www.linkedin.com/in/ismail-emre-ayd%C4%B1n/" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" alt="LinkedIn Logo" width="100"/>
 </a>
