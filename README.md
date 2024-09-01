@@ -9,7 +9,9 @@
 
 ## Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/ismail-emre-ayd%C4%B1n/)
+
+[![LinkedIn Logo](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/ismail-emre-ayd%C4%B1n/)
+
 
 ## Languages and Tools
 
