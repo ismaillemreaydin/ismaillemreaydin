@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently working on improving my skills
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Web development
 
 ## Languages and Tools
 ## Languages and Tools
